@@ -1,0 +1,61 @@
+{
+  "Carmen": {
+    "1": "Amón",
+    "2": "Aranjuez",
+    "3": "California (parte)",
+    "4": "Carmen",
+    "5": "Empalme",
+    "6": "Escalante",
+    "7": "Otoya"
+  },
+  "Merced": {
+    "1": "Bajos de la unión",
+    "2": "Claret",
+    "3": "Cocacola",
+    "4": "Iglesias flores",
+    "5": "Mantica",
+    "6": "México",
+    "7": "Paso de la vaca",
+    "8": "Pitahaya"
+  },
+  "Hospital": {
+    "1": "Almendares",
+    "2": "Ángeles",
+    "3": "Bolívar",
+    "4": "Carit",
+    "5": "Colón (parte)",
+    "6": "Corazón de jesús",
+    "7": "Cristo rey",
+    "8": "Cuba",
+    "9": "Dolorosa (parte)",
+    "10": "Merced",
+    "11": "Pacífico (parte)",
+    "12": "Pinos",
+    "13": "Salubridad",
+    "14": "San bosco",
+    "15": "San francisco",
+    "16": "Santa lucía",
+    "17": "Silos"
+  },
+  "Catedral": {
+    "1": "Bellavista",
+    "2": "California (parte)",
+    "3": "Carlos maría jiménez",
+    "4": "Dolorosa (parte)",
+    "5": "Dos pinos",
+    "6": "Francisco peralta (parte)",
+    "7": "González lahmann",
+    "8": "González víquez",
+    "9": "Güell",
+    "10": "La cruz",
+    "11": "Lomas de ocloro",
+    "12": "Luján",
+    "13": "Milflor",
+    "14": "Naciones unidas",
+    "15": "Pacífico (parte)",
+    "16": "San cayetano (parte)",
+    "17": "Soledad",
+    "18": "Tabacalera",
+    "19": "Vasconia"
+  }
+}
